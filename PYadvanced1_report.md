@@ -86,6 +86,7 @@ elif c[number_counter] == answer:
 ```
 
 if와 elif의 차이 :
+[Stack overflow](https://stackoverflow.com/questions/66504958/what-is-different-if-and-elif)
 
 ```python
 x=1
